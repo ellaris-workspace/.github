@@ -8,10 +8,10 @@ Welcome to **Excceedd**, an initiative by **Ellaris** — a platform built to un
 
 ### 🔧 Active Modules
 
-- **RealEstate** – List, rent, and manage properties with tools tailored for agents, landlords, and buyers  
-- **TravelDeck** – A centralized hub for booking flights, hotels, rides, and events  
-- **Eduverse** – A modern academic infrastructure for managing students, admissions, and operations  
-- **Marketplace** – A scalable multi-vendor eCommerce system for buyers and sellers  
+- [**RealEstate**](https://github.com/ellaris-workspace/excceedd-realestate) – List, rent, and manage properties with tools tailored for agents, landlords, and buyers  
+- [**TravelDeck**](https://github.com/ellaris-workspace/excceedd-traveldeck) – A centralized hub for booking flights, hotels, rides, and events  
+- [**Eduverse**](https://github.com/ellaris-workspace/excceedd-eduverse) – A modern academic infrastructure for managing students, admissions, and operations  
+- [**Marketplace**](https://github.com/ellaris-workspace/excceedd-marketplace) – A scalable multi-vendor eCommerce system for buyers and sellers  
 
 Each module is independently developed yet cohesively integrated within the Excceedd ecosystem.
 
